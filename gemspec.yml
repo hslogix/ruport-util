@@ -11,7 +11,7 @@ description:
   for Ruby Reports
 
 dependencies:
-  ruport: ~> 1.6.0
+  ruport: ~> 1.7.0
   mailfactory: ">= 1.2.3"
   rubyzip: ">= 0.9.1"
   gruff: ~> 0.3.6
